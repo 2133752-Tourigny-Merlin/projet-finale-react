@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // Entrez votre clé api ici 
-const apiKey = 'd5c2ae5be9f14f0ade6b95059244d6ff52726f8bf82e1a0e8541ed21bb1145d3';
+const apiKey = 'f23a6a8668769a1a74109b108f64d967365e451c6f36fb9b81e71fa376c01ae0';
 
 export default axios.create({
     baseURL: "http://projet-finale-service-web.loc/",
